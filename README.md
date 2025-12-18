@@ -6,9 +6,11 @@ This repo is for dissecting HFM ecus (BOSCH and VDO) from 90s mercedes, with the
 
 At 0x7FBC is located some ecu info, in the casing it says:
 412.229/006.005. This is probably some HW or SW info.
+<br/>
 ![alt text](image.png)
 <br/>
 At 0x7FE0 there is the Part Number of the ecu.
+<br/>
 ![alt text](image-1.png)
 
 # Info about the Maps
